@@ -1,0 +1,19 @@
+body {
+    background-color: #22396a;
+    color: white;
+}
+a {
+    color: red;
+}
+h2 {
+    color: #31bb66;
+}
+
+.header {
+    text-align: center;
+}
+nav {
+    background-color: rgb(17, 36, 77);
+    padding: 10px;
+    text-align: center ;
+}
